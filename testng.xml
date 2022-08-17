@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+  <test thread-count="5" name="TestCase">
+  <parameter name="nameofproduct1" value="Iphone"></parameter>
+  <parameter name="nameofproduct2" value="Iphone"></parameter>
+  <classes>
+  <class name="org.sample.Flipkart"></class>
+  </classes>
+  </test> <!-- TestCase -->
+</suite> <!-- TestSuite -->

@@ -1,0 +1,4 @@
+[INFO ] 2022-08-11 22:25:51.570 [main] Sample - This is an Information
+[ERROR] 2022-08-11 22:25:51.573 [main] Sample - Error Message
+[FATAL] 2022-08-11 22:25:51.573 [main] Sample - Fatal message
+[WARN ] 2022-08-11 22:25:51.573 [main] Sample - Warning Message
