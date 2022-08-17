@@ -20,6 +20,8 @@ public class ExplicitExample {
 		WebDriverManager.chromedriver().setup();
 
 		WebDriver driver = new ChromeDriver();
+		
+		driver.manage().window().maximize();
 
 		driver.navigate().to("https://www.flipkart.com/");
 
